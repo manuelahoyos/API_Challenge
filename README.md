@@ -10,7 +10,7 @@ The data was pulled from the OpenWeatherMap API using an API key.
 
 The latitude and longitude values were stored in a list, and the city data is generated based on random coordinates. Other factors pulled for each city were maximum temperature, wind speed, cloudiness percentage and humidity percentage. The data was used to graph the following scatter plots using Matplotlib:
 
-Cloudiness (%) vs. Latitude
+-Cloudiness (%) vs. Latitude
 Temperature (F) vs. Latitude
 Humidity (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
