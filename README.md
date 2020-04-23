@@ -20,11 +20,8 @@
 <img src="images/LatitudevsTemperature.png" width="500">
 
 
-- On 11/10/2019, latitude had no effect on humidity. However, at a very high latitude, the humidity percentage increased and the wind speed decreased
+- On 11/10/2019, latitude had no effect on humidity. However, at high latitude values, the humidity percentage increased and the wind speed decreased:
 
 <img src="images/LatitudevsHumidity.png" width="500">
-
-
-- On 11/10/2019, 
 
 <img src="images/LatitudevsWindSpeed.png" width="500">
