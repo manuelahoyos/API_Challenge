@@ -15,9 +15,6 @@ The latitude and longitude values were stored in a list, and the city data is ge
 - Humidity (%) vs. Latitude
 - Wind Speed (mph) vs. Latitude
 
-Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
-Perform a weather check on each of the cities using a series of successive API calls.
-
 ## Observations:
 
 - On 11/10/2019, latitude had no effect on cloudiness:
