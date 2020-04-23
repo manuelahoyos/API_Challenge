@@ -1,9 +1,11 @@
 # OpenWeatherMap API
 
 ## Overview:
+
 Assignment in which the OpenWeatherMap API data was pulled using an API key to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
 ## Data:
+
 The data was pulled from the OpenWeatherMap API using an API key. 
 
 ## Workflow:
